@@ -1,5 +1,5 @@
 # 🧑‍💻 List of projects:
-**Projects completed during studies at the IT School "GoIT"**
+## Projects completed during studies at the IT School "GoIT"
 ___  
   
 **📂 Project-0001p** — [Stack overflow software developer survey analysis (Big Data)](https://github.com/isachenko-andrii/Python-projects/tree/main/Project-0001p)  
