@@ -1,5 +1,4 @@
 # 🧑‍💻 List of projects:
---- 
 **Projects completed during studies at the IT School "GoIT"**
 ---  
   
