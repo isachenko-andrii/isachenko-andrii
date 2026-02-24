@@ -20,12 +20,6 @@ ___
 **📌 Status:** Completed  
 ___  
 
-  ## Contact  
-    
-**Name:** Andrii Isachenko  
-**LinkedIn:** [Andrii Isachenko](https://www.linkedin.com/in/isachenko-andrii/)  
-**E-mail:** isao.datastudio@gmail.com   
- 
 
   ## PET Projects  
 
@@ -33,3 +27,9 @@ ___
 **Coming soon** . . .  
   
 
+  ## Contact  
+    
+**Name:** Andrii Isachenko  
+**LinkedIn:** [Andrii Isachenko](https://www.linkedin.com/in/isachenko-andrii/)  
+**E-mail:** isao.datastudio@gmail.com   
+ 
