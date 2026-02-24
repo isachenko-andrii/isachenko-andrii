@@ -1,7 +1,7 @@
 # 🧑‍💻 List of projects:
 ## Projects completed during studies at the IT School "GoIT"
   
-**📂 [Stack overflow software developer survey analysis (Big Data)](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis)**  
+**📂 [Stack overflow software developer survey analysis (Big Data Analysis)](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis)**  
 **📋 Description:** Statistical analysis of a large data set, grouping, aggregation and filtering of data according to specified criteria. Visualizations were created. The results of the analysis were provided in a clear tabular format.  
 **🛠 Tools:** Python (Pandas, NumPy, MatPlotLib, SeaBorn)  
 **📌 Status:** Completed   
