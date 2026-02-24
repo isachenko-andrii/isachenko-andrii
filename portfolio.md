@@ -18,7 +18,14 @@ ___
 **📋 Description:** This project focuses on a comprehensive analysis of the Brazilian Olist e-commerce dataset. The goal is to optimize inventory management and sales strategy by performing ABC/XYZ analysis. This allows the business to identify high-profit "star" products, detect "dead stock" in category C, and understand the stability of demand for effective procurement planning.  
 **🔧 Tools:** Microsoft Excel, Google Sheets  
 **📌 Status:** Completed  
-___
+___  
+
+  ## Contact  
+    
+**Name:** Andrii Isachenko  
+**LinkedIn:** [Andrii Isachenko](https://www.linkedin.com/in/isachenko-andrii/)  
+**E-mail:** isao.datastudio@gmail.com   
+ 
 
   ## PET Projects  
 
