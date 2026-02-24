@@ -7,7 +7,7 @@
 **📌 Status:** Completed   
 ___
   
-**📂 [Analysis of the effectiveness of interface updates (A/B test)](https://github.com/isachenko-andrii/Python-projects/tree/main/Project-0002p)**    
+**📂 [Analysis of the effectiveness of interface updates (A/B Test)](https://github.com/isachenko-andrii/Python-projects/tree/main/Project-0002p)**    
 **📋 Description:** A comprehensive analysis of the results of the experiment (20,000 records) on the implementation of the new interface was performed. The following steps were performed: Pre-test analysis, Data Cleaning, Sample Integrity Analysis, Statistical Analysis, Visualization and Interpretation.  
 **🛠 Tools:** Python (Pandas, NumPy, MatPlotLib, SeaBorn, SciPy)  
 **📌 Status:** Completed   
