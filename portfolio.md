@@ -1,3 +1,4 @@
+![Portfolio](https://github.com/isachenko-andrii/isachenko-andrii/raw/main/isachenko-andrii-repository-logo.png)
 # 🧑‍💻 List of projects:
 ## Projects completed during studies at the IT School "GoIT"
   
