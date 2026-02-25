@@ -1,6 +1,11 @@
 ![Portfolio](https://github.com/isachenko-andrii/isachenko-andrii/raw/main/isachenko-andrii-repository-logo.png)
 # 🧑‍💻 List of projects:
 ## Projects completed during studies at the IT School "GoIT"
+**📂 [Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)](https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization)**  
+**📋 Description:** This project focuses on a comprehensive analysis of the Brazilian Olist e-commerce dataset. The goal is to optimize inventory management and sales strategy by performing ABC/XYZ analysis. This allows the business to identify high-profit "star" products, detect "dead stock" in category C, and understand the stability of demand for effective procurement planning.  
+**🔧 Tools:** Microsoft Excel, Google Sheets  
+**📌 Status:** Completed  
+___  
   
 **📂 [Stack overflow software developer survey analysis (Big Data Analysis)](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis)**  
 **📋 Description:** Statistical analysis of a large data set, grouping, aggregation and filtering of data according to specified criteria. Visualizations were created. The results of the analysis were provided in a clear tabular format.  
@@ -14,11 +19,7 @@ ___
 **📌 Status:** Completed   
 ___
   
-**📂 [Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)](https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization)**  
-**📋 Description:** This project focuses on a comprehensive analysis of the Brazilian Olist e-commerce dataset. The goal is to optimize inventory management and sales strategy by performing ABC/XYZ analysis. This allows the business to identify high-profit "star" products, detect "dead stock" in category C, and understand the stability of demand for effective procurement planning.  
-**🔧 Tools:** Microsoft Excel, Google Sheets  
-**📌 Status:** Completed  
-___  
+ 
 
 
   ## PET Projects  
