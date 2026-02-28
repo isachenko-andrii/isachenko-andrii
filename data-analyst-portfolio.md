@@ -98,29 +98,6 @@ Projects completed during studies at the IT School "GoIT"
   </tbody>
 </table>
    
-## Projects completed during studies at the IT School "GoIT"
-**📂 [Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)](https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization)**  
-**📋 Description:** This project focuses on a comprehensive analysis of the Brazilian Olist e-commerce dataset. The goal is to optimize inventory management and sales strategy by performing ABC/XYZ analysis. This allows the business to identify high-profit "star" products, detect "dead stock" in category C, and understand the stability of demand for effective procurement planning.  
-**🔧 Tools:** Microsoft Excel, Google Sheets  
-**📌 Status:** Completed  
-___  
-  
-**📂 [Stack overflow software developer survey analysis (Big Data Analysis)](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis)**  
-**📋 Description:** Statistical analysis of a large data set, grouping, aggregation and filtering of data according to specified criteria. Visualizations were created. The results of the analysis were provided in a clear tabular format.  
-**🛠 Tools:** Python (Pandas, NumPy, MatPlotLib, SeaBorn)  
-**📌 Status:** Completed   
-___
-  
-**📂 [Subscription screen conversion optimization (A/B Test)](https://github.com/isachenko-andrii/Subscription-screen-conversion-optimization)**    
-**📋 Description:** A comprehensive analysis of the results of the experiment (20,000 records) on the implementation of the new interface was performed. The following steps were performed: Pre-test analysis, Data Cleaning, Sample Integrity Analysis, Statistical Analysis, Visualization and Interpretation.  
-**🛠 Tools:** Python (Pandas, NumPy, MatPlotLib, SeaBorn, SciPy)  
-**📌 Status:** Completed   
-___
-  
-**📂 [User Funnels (Sales funnel analysis)](https://github.com/isachenko-andrii/User-Funnels)**    
-**📋 Description:** The project is dedicated to analyzing the sales funnel of an online store. The goal of the analysis is to track the user's journey from the first visit to the site to a successful purchase, and to provide sound recommendations for improving conversion.   
-**🛠 Tools:** SQL (PostgreSQL), Python (Pandas, MatPlotLib)  
-**📌 Status:** Completed   
 ___  
  
 
