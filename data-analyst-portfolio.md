@@ -68,7 +68,7 @@ ___
 ___
   
 **📂 [User Funnels (Sales funnel analysis)](https://github.com/isachenko-andrii/User-Funnels)**    
-**📋 Description:** The project is dedicated to analyzing the sales funnel of an online store. The goal of the analysis is to track the user's journey from the first visit to the site to a successful purchase, and to provide sound recommendations for improving conversion.
+**📋 Description:** The project is dedicated to analyzing the sales funnel of an online store. The goal of the analysis is to track the user's journey from the first visit to the site to a successful purchase, and to provide sound recommendations for improving conversion.  
 **🛠 Tools:** SQL (PostgreSQL), Python (Pandas, MatPlotLib)  
 **📌 Status:** Completed   
 ___  
