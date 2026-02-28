@@ -51,7 +51,7 @@ My goal is to transform data into clear insights and professional business solut
     
 **Coming soon** . . .  
   
- 
+# 
 # 🧑‍💻 List of projects:  
 
 
