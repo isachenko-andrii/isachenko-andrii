@@ -71,28 +71,28 @@ My goal is to transform data into clear insights and professional business solut
       <td><b>🛒 User Funnel Analysis</b></td>
       <td>Аналіз воронки продажів та виявлення точок відтоку (drop-offs).</td>
       <td><code>SQL</code> <code>Python</code> <code>PostgreSQL</code></td>
-      <td>✅ Completed</td>
+      <td>✅Completed</td>
       <td><a href="#">View Repo</a></td>
     </tr>
     <tr>
       <td><b>📊 Sales Dashboard</b></td>
       <td>Інтерактивний дашборд для моніторингу KPI магазину.</td>
       <td><code>Power BI</code> <code>Excel</code></td>
-      <td>✅ Completed</td>
+      <td>✅Completed</td>
       <td><a href="#">View Repo</a></td>
     </tr>
     <tr>
       <td><b>🧠 Customer Segment</b></td>
       <td>Кластеризація клієнтів за методом RFM.</td>
       <td><code>Python</code> <code>Scikit-learn</code></td>
-      <td>✅ Completed</td>
+      <td>✅Completed</td>
       <td><a href="#">View Repo</a></td>
     </tr>
     <tr>
       <td><b>📈 Price Tracker</b></td>
       <td>Скрипт для моніторингу цін конкурентів у реальному часі.</td>
       <td><code>Python</code> <code>BeautifulSoup</code></td>
-      <td>✅ Completed</td>
+      <td>✅Completed</td>
       <td><a href="#">View Repo</a></td>
     </tr>
   </tbody>
