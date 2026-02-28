@@ -61,14 +61,18 @@ ___
 **📌 Status:** Completed   
 ___
   
-**📂 [Analysis of the effectiveness of interface updates (A/B Test)](https://github.com/isachenko-andrii/Python-projects/tree/main/Project-0002p)**    
+**📂 [Subscription screen conversion optimization (A/B Test)](https://github.com/isachenko-andrii/Subscription-screen-conversion-optimization)**    
 **📋 Description:** A comprehensive analysis of the results of the experiment (20,000 records) on the implementation of the new interface was performed. The following steps were performed: Pre-test analysis, Data Cleaning, Sample Integrity Analysis, Statistical Analysis, Visualization and Interpretation.  
 **🛠 Tools:** Python (Pandas, NumPy, MatPlotLib, SeaBorn, SciPy)  
 **📌 Status:** Completed   
 ___
   
+**📂 [User Funnels (Sales funnel analysis)](https://github.com/isachenko-andrii/User-Funnels)**    
+**📋 Description:** .  
+**🛠 Tools:** SQL, Python (Pandas, MatPlotLib)  
+**📌 Status:** Completed   
+___  
  
-
 
   ## PET Projects  
 
