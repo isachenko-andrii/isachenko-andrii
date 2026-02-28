@@ -54,7 +54,7 @@ My goal is to transform data into clear insights and professional business solut
 # 🧑‍💻 List of projects:  
 
 
-## Projects completed during studies at the IT School "GoIT"  
+**Projects completed during studies at the IT School "GoIT"**    
 <table align="center">
   <thead>
     <tr>
