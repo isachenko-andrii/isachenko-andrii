@@ -58,11 +58,11 @@ My goal is to transform data into clear insights and professional business solut
 <table align="center">
   <thead>
     <tr>
-      <th>Проєкт</th>
-      <th>Опис</th>
-      <th>Технології</th>
-      <th>Статус</th>
-      <th>Посилання</th>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Stack</th>
+      <th>Status</th>
+      <th>Link</th>
     </tr>
   </thead>
   <tbody>
