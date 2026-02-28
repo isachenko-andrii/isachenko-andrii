@@ -86,13 +86,13 @@ Projects completed during studies at the IT School "GoIT"
       <td>
         Statistical analysis of a large data set, grouping, aggregation and filtering of data according to specified criteria. Visualizations were created. The results of the analysis were provided in a clear tabular format. 
       </td>
-      <td><code>Python</code> <code>Pandas</code> <code>MatPlotLib</code>< <code>SeaBorn</code></td>
+      <td><code>Python</code> <code>Pandas</code> <code>MatPlotLib</code> <code>SeaBorn</code></td>
       <td>✅Completed</td>
     </tr>
     <tr>
-      <td><b>📈 Price Tracker</b></td>
-      <td>Скрипт для моніторингу цін конкурентів у реальному часі.</td>
-      <td><code>Python</code> <code>BeautifulSoup</code></td>
+      <td><b>📈 <a href="https://github.com/isachenko-andrii/Subscription-screen-conversion-optimization">Subscription screen conversion optimization (A/B Test)</a></b></td>
+      <td>A comprehensive analysis of the results of the experiment (20,000 records) on the implementation of the new interface was performed. The following steps were performed: Pre-test analysis, Data Cleaning, Sample Integrity Analysis, Statistical Analysis, Visualization and Interpretation.</td>
+      <td><code>Python</code> <code>Pandas</code> <code>MatPlotLib</code> <code>SeaBorn</code> <code>SciPy</code></td>
       <td>✅Completed</td>
     </tr>
   </tbody>
