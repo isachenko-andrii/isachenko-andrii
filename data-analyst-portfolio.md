@@ -78,7 +78,7 @@ Projects completed during studies at the IT School "GoIT"
       <td><b>📊 <a href="https://github.com/isachenko-andrii/User-Funnels">User Funnels (Sales funnel analysis)</a></b></td>
       <td>
         The project is dedicated to analyzing the sales funnel of an online store. The goal of the analysis is to track the user's journey from the first visit to the site to a successful purchase, and to provide sound recommendations for improving conversion.</td>
-      <td><code>SQL</code> <code>PostgreSQL</code> <code>Python</code> <code>Pandas/code> <code>MatPlotLib/code></td>
+      <td><code>SQL</code> <code>PostgreSQL</code> <code>Python</code> <code>Pandas</code> <code>MatPlotLib</code></td>
       <td>✅Completed</td>
     </tr>
     <tr>
