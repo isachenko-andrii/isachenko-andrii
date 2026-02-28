@@ -63,7 +63,6 @@ My goal is to transform data into clear insights and professional business solut
       <th>Description</th>
       <th>Stack</th>
       <th>Status</th>
-      <th>Link</th>
     </tr>
   </thead>
   <tbody>
