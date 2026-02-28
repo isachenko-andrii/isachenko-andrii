@@ -1,6 +1,6 @@
 ![Portfolio](https://github.com/isachenko-andrii/isachenko-andrii/raw/main/isachenko-andrii-repository-logo.png)  
   
-### 👋 Hi there!
+## 👋 Hi there!
 
 <b>I’m Andrii</b>, a data analyst focused on Python, SQL, Excel, BI tools, and modern AI platforms.  
 Here you’ll find my projects in data analysis, dashboard creation, and business metrics.  
@@ -47,12 +47,12 @@ My goal is to transform data into clear insights and professional business solut
 ![Business Communication](https://img.shields.io/badge/Business%20Communication-1F618D?style=for-the-badge)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)  
 
-# Certificates  
+## Certificates  
     
 **Coming soon** . . .  
   
 # 
-# 🧑‍💻 List of projects:  
+## 🧑‍💻 List of projects:  
 
 
 Projects completed during studies at the IT School "GoIT"    
