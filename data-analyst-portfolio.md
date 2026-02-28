@@ -69,7 +69,7 @@ ___
   
 **📂 [User Funnels (Sales funnel analysis)](https://github.com/isachenko-andrii/User-Funnels)**    
 **📋 Description:** .  
-**🛠 Tools:** SQL, Python (Pandas, MatPlotLib)  
+**🛠 Tools:** SQL (PostgreSQL), Python (Pandas, MatPlotLib)  
 **📌 Status:** Completed   
 ___  
  
