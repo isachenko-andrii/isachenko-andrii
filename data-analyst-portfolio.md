@@ -68,13 +68,13 @@ My goal is to transform data into clear insights and professional business solut
   </thead>
   <tbody>
     <tr>
-      <td><b>🛒 [Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)](https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization)</b></td>
+      <td><b>🛒 <a href="https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization">Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)</a></b></td>
       <td>
        This project focuses on a comprehensive analysis of the Brazilian Olist e-commerce dataset. The goal is to optimize inventory management and sales strategy by performing ABC/XYZ analysis. This allows the business to identify high-profit "star" products, detect "dead stock" in category C, and understand the stability of demand for effective procurement planning. 
       </td>
       <td><code>SQL</code> <code>Python</code> <code>PostgreSQL</code></td>
       <td>✅Completed</td>
-      <td><a href="https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization">View Repo</a></td>
+      <td><a href="https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization">Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)</a></td>
     </tr>
     <tr>
       <td><b>📊 Sales Dashboard</b></td>
