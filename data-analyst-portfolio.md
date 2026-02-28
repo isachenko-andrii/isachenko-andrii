@@ -47,7 +47,7 @@ My goal is to transform data into clear insights and professional business solut
 ![Business Communication](https://img.shields.io/badge/Business%20Communication-1F618D?style=for-the-badge)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)  
 
-## Certificates  
+## 📜 Certificates  
     
 **Coming soon** . . .  
   
