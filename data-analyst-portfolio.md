@@ -82,7 +82,7 @@ Projects completed during studies at the IT School "GoIT"
       <td>✅Completed</td>
     </tr>
     <tr>
-      <td><b>📊 <a href="https://github.com/isachenko-andrii/E-commerce-sales-analysis">E-commerce sales analysis(Sales funnel analysis)</a></b></td>
+      <td><b>📊 <a href="https://github.com/isachenko-andrii/E-commerce-sales-analysis">E-commerce sales analysis</a></b></td>
       <td>
         ...
        </td>
