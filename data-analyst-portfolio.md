@@ -82,7 +82,7 @@ Projects completed during studies at the IT School "GoIT"
       <td>✅Completed</td>
     </tr>
     <tr>
-      <td><b>📊 <a href="https://github.com/isachenko-andrii/E-commerce-sales-analysis">E-commerce sales analysis</a></b></td>
+      <td><b>📊 <a href="https://github.com/isachenko-andrii/E-commerce-sales-analysis">E-commerce sales analysis (Data Visualization)</a></b></td>
       <td>
         An assessment of the effectiveness of the online store's operation for the reporting period was conducted, KPIs were calculated, and a study of the distribution of orders was conducted. As a result, an analytical dashboard was formed, conclusions and suggestions were provided.
        </td>
