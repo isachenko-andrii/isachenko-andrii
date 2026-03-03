@@ -111,6 +111,26 @@ ___
 
   ## PET Projects  
 
+<table align="center">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Stack</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>💶 <a href="https://github.com/isachenko-andrii/Average-salary-in-Ukraine-for-December-2025">Average Salary in Ukraine for December 2025 (Power BI)</a></b></td>
+      <td>
+       This project focuses on analyzing and visualizing the average salary levels across different regions of Ukraine for December 2025. Microsoft Excel was used for data preparation, cleaning, and structuring, while Microsoft Power BI was applied to create interactive dashboards and visual maps that highlight regional differences in salary distribution.
+      </td>
+      <td><code>Microsoft Excel</code> <code>Microsoft Power BI</code></td>
+      <td>✅Completed</td>
+    </tr>
+  </tbody>
+</table>
     
 **Coming soon** . . .  
   
