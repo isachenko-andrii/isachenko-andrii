@@ -103,6 +103,14 @@ Projects completed during studies at the IT School "GoIT"
       <td><code>Python</code> <code>Pandas</code> <code>MatPlotLib</code> <code>SeaBorn</code> <code>SciPy</code></td>
       <td>✅Completed</td>
     </tr>
+     <tr>
+      <td><b>📚 <a href="https://github.com/isachenko-andrii/Customer-Segmentation-and-Retention-Analysis">Customer Segmentation and Retention Analysis (Tableau Public)</a></b></td>
+      <td>
+        RFM & Cohort Retention Dashboard (Tableau): Professional dashboard for customer segmentation and retention analysis based on transactional data (500k+ records).
+      </td>
+      <td>Microsoft Excel</code> <code>Google Sheets</code> <code>Tableau Public</code> </td>
+      <td>in progress.</td>
+    </tr>
   </tbody>
 </table>
    
