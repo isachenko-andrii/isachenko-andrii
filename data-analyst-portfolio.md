@@ -109,7 +109,7 @@ Projects completed during studies at the IT School "GoIT"
         RFM & Cohort Retention Dashboard (Tableau): Professional dashboard for customer segmentation and retention analysis based on transactional data (500k+ records).
       </td>
       <td><code>Microsoft Excel</code> <code>Google Sheets</code> <code>Tableau Public</code> </td>
-      <td>in progress.</td>
+      <td>🚧 in progress.</td>
     </tr>
   </tbody>
 </table>
