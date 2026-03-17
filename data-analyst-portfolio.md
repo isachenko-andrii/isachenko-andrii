@@ -104,11 +104,11 @@ Projects completed during studies at the IT School "GoIT"
       <td>✅Completed</td>
     </tr>
      <tr>
-      <td><b>📚 <a href="https://github.com/isachenko-andrii/Customer-Segmentation-and-Retention-Analysis">Customer Segmentation and Retention Analysis (Tableau Public)</a></b></td>
+      <td><b>📚 <a href="https://github.com/isachenko-andrii/BI-Tableau-Projects">BI Tableau Projects</a></b></td>
       <td>
-        RFM & Cohort Retention Dashboard (Tableau): Professional dashboard for customer segmentation and retention analysis based on transactional data (500k+ records).
+       Interactive BI dashboards and product analytics projects built with Tableau Public, featuring cohort analysis and conversion funnels.
       </td>
-      <td><code>Microsoft Excel</code> <code>Google Sheets</code> <code>Tableau Public</code> </td>
+      <td> <code>Tableau Public</code> </td>
       <td>🚧in progress.</td>
     </tr>
   </tbody>
