@@ -109,7 +109,7 @@ Projects completed during studies at the IT School "GoIT"
        Interactive BI dashboards and product analytics projects built with Tableau Public, featuring cohort analysis and conversion funnels.
       </td>
       <td> <code>Tableau Public</code> </td>
-      <td>🚧in progress.</td>
+      <td>✅Completed</td>
     </tr>
   </tbody>
 </table>
