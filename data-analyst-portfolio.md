@@ -111,6 +111,14 @@ Projects completed during studies at the IT School "GoIT"
       <td> <code>Tableau Public</code> </td>
       <td>✅Completed</td>
     </tr>
+     <tr>
+      <td><b>🍳 <a href="https://github.com/isachenko-andrii/End-to-End-Sales-Analysis">End to End Sales Analysis</a></b></td>
+      <td>
+       Analysis of sales efficiency and optimization of logistics processes based on a large set of data (Global Superstore)
+      </td>
+      <td> <code>Power BI</code> <code>Microsoft Excel</code> <code>Microsoft Power Query</code></td>
+      <td>✅Completed</td>
+    </tr>
   </tbody>
 </table>
    
