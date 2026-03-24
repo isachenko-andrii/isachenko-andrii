@@ -116,7 +116,7 @@ Projects completed during studies at the IT School "GoIT"
       <td>
        Analysis of sales efficiency and optimization of logistics processes based on a large set of data (Global Superstore)
       </td>
-      <td> <code>Microsoft Excel</code> <code>Power BI</code> <code>Power Query</code> </td>
+      <td> <code>Microsoft Excel</code> <code>Power Query</code> <code>Power BI</code> </td>
       <td>✅Completed</td>
     </tr>
   </tbody>
