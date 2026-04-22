@@ -129,10 +129,10 @@ ___
 <table align="center">
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Stack</th>
-      <th>Status</th>
+      <th>Проєкти</th>
+      <th>Опис</th>
+      <th>Стек</th>
+      <th>Статус</th>
     </tr>
   </thead>
   <tbody>
