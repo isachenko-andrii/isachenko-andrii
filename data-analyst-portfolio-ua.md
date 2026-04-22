@@ -99,7 +99,9 @@
     </tr>
     <tr>
       <td><b>📈 <a href="https://github.com/isachenko-andrii/Subscription-screen-conversion-optimization">Subscription screen conversion optimization (A/B Test)</a></b></td>
-      <td>A comprehensive analysis of the results of the experiment (20,000 records) on the implementation of the new interface was performed. The following steps were performed: Pre-test analysis, Data Cleaning, Sample Integrity Analysis, Statistical Analysis, Visualization and Interpretation.</td>
+      <td>
+        Було проведено комплексний аналіз результатів експерименту (20 000 записів) щодо впровадження нового інтерфейсу. Були виконані такі кроки: передтестовий аналіз, очищення даних, аналіз цілісності вибірки, статистичний аналіз, візуалізація та інтерпретація.
+      </td>
       <td><code>Python</code> <code>Pandas</code> <code>MatPlotLib</code> <code>SeaBorn</code> <code>SciPy</code></td>
       <td>✅Завершено</td>
     </tr>
