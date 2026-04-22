@@ -1,3 +1,5 @@
+![EN](https://github.com/isachenko-andrii/isachenko-andrii/edit/main/README.md) | ![UA](https://github.com/isachenko-andrii/isachenko-andrii/edit/main/README-UA.md) This material is also available in Ukrainian.
+---
 ### 👋 Hi there!
 
 <b>I’m Andrii</b>, a data analyst focused on Python, SQL, Excel, BI tools, and modern AI platforms.  
