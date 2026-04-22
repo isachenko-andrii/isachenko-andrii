@@ -139,7 +139,7 @@ ___
     <tr>
       <td><b>💶 <a href="https://github.com/isachenko-andrii/Average-salary-in-Ukraine-for-December-2025">Average Salary in Ukraine for December 2025 (Power BI)</a></b></td>
       <td>
-       This project focuses on analyzing and visualizing the average salary levels across different regions of Ukraine for December 2025. Microsoft Excel was used for data preparation, cleaning, and structuring, while Microsoft Power BI was applied to create interactive dashboards and visual maps that highlight regional differences in salary distribution.
+       Цей проєкт зосереджений на аналізі та візуалізації середніх рівнів заробітної плати в різних регіонах України за грудень 2025 року. Для підготовки, очищення та структурування даних використовувався Microsoft Excel, а для створення інтерактивних інформаційних панелей та візуальних карт, що підкреслюють регіональні відмінності у розподілі заробітної плати, - Microsoft Power BI.
       </td>
       <td><code>Microsoft Excel</code> <code>Microsoft Power BI</code></td>
       <td>✅Завершено</td>
