@@ -92,7 +92,7 @@
     <tr>
       <td><b>🧠 <a href="https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis">Stack overflow software developer survey analysis (Big Data Analysis)</a></b></td>
       <td>
-        Statistical analysis of a large data set, grouping, aggregation and filtering of data according to specified criteria. Visualizations were created. The results of the analysis were provided in a clear tabular format. 
+        Статистичний аналіз великого набору даних, групування, агрегування та фільтрація даних за заданими критеріями. Були створені візуалізації. Результати аналізу були надані у зрозумілому табличному форматі. 
       </td>
       <td><code>Python</code> <code>Pandas</code> <code>MatPlotLib</code> <code>SeaBorn</code></td>
       <td>✅Завершено</td>
