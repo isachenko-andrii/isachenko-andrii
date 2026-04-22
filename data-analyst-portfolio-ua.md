@@ -127,7 +127,7 @@
 ___  
  
 
-  ## PET Projects  
+  ## PET Проєкти  
 
 <table align="center">
   <thead>
