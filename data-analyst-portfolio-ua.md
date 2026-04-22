@@ -1,15 +1,12 @@
-#### [EN](https://github.com/isachenko-andrii/isachenko-andrii/edit/main/data-analyst-portfolio.md) | [UA](https://github.com/isachenko-andrii/isachenko-andrii/blob/main/data-analyst-portfolio-ua.md) This material is also available in Ukrainian.
+#### [EN](https://github.com/isachenko-andrii/isachenko-andrii/edit/main/data-analyst-portfolio.md) | [UA](https://github.com/isachenko-andrii/isachenko-andrii/blob/main/data-analyst-portfolio-ua.md) Цей матеріал також доступний англійською мовою.
 ---  
 ![Portfolio](https://github.com/isachenko-andrii/isachenko-andrii/raw/main/isachenko-andrii-repository-logo.png)  
   
-## 👋 Hi there!
+## 👋 Привіт!
 
-<b>I’m Andrii</b>, a data analyst focused on Python, SQL, Excel, BI tools, and modern AI platforms.  
-Here you’ll find my projects in data analysis, dashboard creation, and business metrics.  
-My goal is to transform data into clear insights and professional business solutions.  
-<b>I am open to collaboration and new opportunities.</b>
+**Я Андрій**, аналітик даних, що спеціалізується на Python, SQL, Excel, інструментах бізнес-аналітики та сучасних платформах штучного інтелекту. Тут ви знайдете мої проекти з аналізу даних, створення інформаційних панелей та бізнес-метрик. Моя мета — перетворити дані на чіткі ідеї та професійні бізнес-рішення. **Я відкритий до співпраці та нових можливостей.**
 
-### My stack of technologies, methods and skills
+### Мій набір технологій, методів та навичок
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,15 +46,15 @@ My goal is to transform data into clear insights and professional business solut
 ![Business Communication](https://img.shields.io/badge/Business%20Communication-1F618D?style=for-the-badge)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)  
 
-## 📜 Certificates  
+## 📜 Сертифікати  
     
 **Coming soon** . . .  
   
 # 
-## 🧑‍💻 List of projects:  
+## 🧑‍💻 Список проектів:  
 
 
-Projects completed during studies at the IT School "GoIT"    
+Проекти, виконані під час навчання в IT School "GoIT"    
 <table align="center">
   <thead>
     <tr>
