@@ -92,7 +92,7 @@ Projects completed during studies at the IT School "GoIT"
       <td>✅Completed</td>
     </tr>
     <tr>
-      <td><b>🧠 <a href="https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis">Stack overflow software developer survey analysis (Big Data Analysis)</a></b></td>
+      <td><b>🧠 <a href="https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/README.md">Stack overflow software developer survey analysis (Big Data Analysis)</a></b></td>
       <td>
         Statistical analysis of a large data set, grouping, aggregation and filtering of data according to specified criteria. Visualizations were created. The results of the analysis were provided in a clear tabular format. 
       </td>
