@@ -78,7 +78,7 @@
       <td>
         The project is dedicated to analyzing the sales funnel of an online store. The goal of the analysis is to track the user's journey from the first visit to the site to a successful purchase, and to provide sound recommendations for improving conversion.</td>
       <td><code>SQL</code> <code>PostgreSQL</code> <code>Python</code> <code>Pandas</code> <code>MatPlotLib</code></td>
-      <td>✅Completed</td>
+      <td>✅Завершено</td>
     </tr>
     <tr>
       <td><b>📊 <a href="https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard">E-Commerce Sales Performance Dashboard (Looker Studio)</a></b></td>
@@ -86,7 +86,7 @@
         An assessment of the effectiveness of the online store's operation for the reporting period was conducted, KPIs were calculated, and a study of the distribution of orders was conducted. As a result, an analytical dashboard was formed, conclusions and suggestions were provided.
        </td>
       <td><code>Google Looker Studio</code> </td>
-      <td>✅Completed</td>
+      <td>✅Завершено</td>
     </tr>
     <tr>
       <td><b>🧠 <a href="https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis">Stack overflow software developer survey analysis (Big Data Analysis)</a></b></td>
@@ -94,13 +94,13 @@
         Statistical analysis of a large data set, grouping, aggregation and filtering of data according to specified criteria. Visualizations were created. The results of the analysis were provided in a clear tabular format. 
       </td>
       <td><code>Python</code> <code>Pandas</code> <code>MatPlotLib</code> <code>SeaBorn</code></td>
-      <td>✅Completed</td>
+      <td>✅Завершено</td>
     </tr>
     <tr>
       <td><b>📈 <a href="https://github.com/isachenko-andrii/Subscription-screen-conversion-optimization">Subscription screen conversion optimization (A/B Test)</a></b></td>
       <td>A comprehensive analysis of the results of the experiment (20,000 records) on the implementation of the new interface was performed. The following steps were performed: Pre-test analysis, Data Cleaning, Sample Integrity Analysis, Statistical Analysis, Visualization and Interpretation.</td>
       <td><code>Python</code> <code>Pandas</code> <code>MatPlotLib</code> <code>SeaBorn</code> <code>SciPy</code></td>
-      <td>✅Completed</td>
+      <td>✅Завершено</td>
     </tr>
      <tr>
       <td><b>📚 <a href="https://github.com/isachenko-andrii/BI-Tableau-Projects">BI Tableau Projects</a></b></td>
@@ -108,7 +108,7 @@
        Interactive BI dashboards and product analytics projects built with Tableau Public, featuring cohort analysis and conversion funnels.
       </td>
       <td> <code>Tableau Public</code> </td>
-      <td>✅Completed</td>
+      <td>✅Завершено</td>
     </tr>
      <tr>
       <td><b>🍳 <a href="https://github.com/isachenko-andrii/End-to-End-Sales-Analysis">End to End Sales Analysis</a></b></td>
@@ -116,7 +116,7 @@
        Analysis of sales efficiency and optimization of logistics processes based on a large set of data (Global Superstore)
       </td>
       <td> <code>Microsoft Excel</code> <code>Power Query</code> <code>Power BI</code> </td>
-      <td>✅Completed</td>
+      <td>✅Завершено</td>
     </tr>
   </tbody>
 </table>
@@ -142,16 +142,16 @@ ___
        This project focuses on analyzing and visualizing the average salary levels across different regions of Ukraine for December 2025. Microsoft Excel was used for data preparation, cleaning, and structuring, while Microsoft Power BI was applied to create interactive dashboards and visual maps that highlight regional differences in salary distribution.
       </td>
       <td><code>Microsoft Excel</code> <code>Microsoft Power BI</code></td>
-      <td>✅Completed</td>
+      <td>✅Завершено</td>
     </tr>
   </tbody>
 </table>
     
-**Coming soon** . . .  
+**Скоро буде доступно ...**   
   
 
-  ## Contact  
+  ## Контакти  
     
-**Name:** [Andrii Isachenko](https://isachenko-andrii.github.io)  
+**Ім'я:** [Andrii Isachenko](https://isachenko-andrii.github.io)  
 **LinkedIn:** [Andrii Isachenko](https://www.linkedin.com/in/isachenko-andrii/)  
 **E-mail:** isao.datastudio@gmail.com   
