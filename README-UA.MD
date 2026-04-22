@@ -44,4 +44,4 @@
 ![Business Communication](https://img.shields.io/badge/Business%20Communication-1F618D?style=for-the-badge)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)  
   
-***Ви можете переглянути моє портфоліо за посиланням. [Read more](https://github.com/isachenko-andrii/isachenko-andrii/blob/main/data-analyst-portfolio-ua.md)***  
+***Ви можете переглянути моє портфоліо за посиланням. [Читати далі](https://github.com/isachenko-andrii/isachenko-andrii/blob/main/data-analyst-portfolio-ua.md)***  
