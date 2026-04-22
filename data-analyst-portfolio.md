@@ -1,4 +1,4 @@
-#### [EN](https://github.com/isachenko-andrii/isachenko-andrii/edit/main/data-analyst-portfolio.md) | [UA](https://github.com/isachenko-andrii/isachenko-andrii/blob/main/data-analyst-portfolio-ua.md) Цей матеріал також доступний українською мовою.
+#### [EN](https://github.com/isachenko-andrii/isachenko-andrii/edit/main/data-analyst-portfolio.md) | [UA](https://github.com/isachenko-andrii/isachenko-andrii/blob/main/data-analyst-portfolio-ua.md) This material is also available in Ukrainian.
 ---  
 ![Portfolio](https://github.com/isachenko-andrii/isachenko-andrii/raw/main/isachenko-andrii-repository-logo.png)  
   
