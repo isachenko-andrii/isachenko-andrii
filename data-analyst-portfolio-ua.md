@@ -116,7 +116,7 @@
      <tr>
       <td><b>🍳 <a href="https://github.com/isachenko-andrii/End-to-End-Sales-Analysis">End to End Sales Analysis</a></b></td>
       <td>
-       Analysis of sales efficiency and optimization of logistics processes based on a large set of data (Global Superstore)
+       Аналіз ефективності продажів та оптимізація логістичних процесів на основі великого набору даних (Global Superstore).
       </td>
       <td> <code>Microsoft Excel</code> <code>Power Query</code> <code>Power BI</code> </td>
       <td>✅Завершено</td>
