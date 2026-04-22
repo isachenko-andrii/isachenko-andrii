@@ -68,7 +68,7 @@
     <tr>
       <td><b>🛒 <a href="https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization">Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)</a></b></td>
       <td>
-       This project focuses on a comprehensive analysis of the Brazilian Olist e-commerce dataset. The goal is to optimize inventory management and sales strategy by performing ABC/XYZ analysis. This allows the business to identify high-profit "star" products, detect "dead stock" in category C, and understand the stability of demand for effective procurement planning. 
+       Цей проєкт зосереджений на комплексному аналізі набору даних електронної комерції бразильської компанії Olist. Метою є оптимізація управління запасами та стратегії продажів шляхом проведення ABC/XYZ аналізу. Це дозволяє бізнесу визначити високоприбуткові "зіркові" продукти, виявити "мертві запаси" в категорії C та зрозуміти стабільність попиту для ефективного планування закупівель.
       </td>
       <td><code>Microsoft Excel</code> <code>Google Sheets</code></td>
       <td>✅Completed</td>
