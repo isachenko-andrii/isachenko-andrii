@@ -84,7 +84,7 @@
     <tr>
       <td><b>📊 <a href="https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard">E-Commerce Sales Performance Dashboard (Looker Studio)</a></b></td>
       <td>
-        An assessment of the effectiveness of the online store's operation for the reporting period was conducted, KPIs were calculated, and a study of the distribution of orders was conducted. As a result, an analytical dashboard was formed, conclusions and suggestions were provided.
+        Було проведено оцінку ефективності роботи інтернет-магазину за звітний період, розраховано KPI та проведено дослідження розподілу замовлень. В результаті було сформовано аналітичну панель, надано висновки та пропозиції.
        </td>
       <td><code>Google Looker Studio</code> </td>
       <td>✅Завершено</td>
