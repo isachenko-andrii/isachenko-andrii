@@ -108,7 +108,7 @@
      <tr>
       <td><b>📚 <a href="https://github.com/isachenko-andrii/BI-Tableau-Projects">BI Tableau Projects</a></b></td>
       <td>
-       Interactive BI dashboards and product analytics projects built with Tableau Public, featuring cohort analysis and conversion funnels.
+       Інтерактивні інформаційні панелі бізнес-аналітики та проекти аналітики продуктів, створені за допомогою Tableau Public, включаючи когортний аналіз та воронки конверсій.
       </td>
       <td> <code>Tableau Public</code> </td>
       <td>✅Завершено</td>
