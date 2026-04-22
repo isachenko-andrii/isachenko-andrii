@@ -1,4 +1,4 @@
-#### [EN](https://github.com/isachenko-andrii/isachenko-andrii/edit/main/README.md) | [UA](https://github.com/isachenko-andrii/isachenko-andrii/blob/main/README-UA) This material is also available in Ukrainian.
+#### [EN](https://github.com/isachenko-andrii/isachenko-andrii/edit/main/README.md) | [UA](https://github.com/isachenko-andrii/isachenko-andrii/blob/main/README-UA.MD) This material is also available in Ukrainian.
 ---
 ### 👋 Hi there!
 
