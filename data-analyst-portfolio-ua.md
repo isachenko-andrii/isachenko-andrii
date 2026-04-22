@@ -90,7 +90,7 @@
       <td>✅Завершено</td>
     </tr>
     <tr>
-      <td><b>🧠 <a href="https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis">Stack overflow software developer survey analysis (Big Data Analysis)</a></b></td>
+      <td><b>🧠 <a href="https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/README-UA.md">Stack overflow software developer survey analysis (Big Data Analysis)</a></b></td>
       <td>
         Статистичний аналіз великого набору даних, групування, агрегування та фільтрація даних за заданими критеріями. Були створені візуалізації. Результати аналізу були надані у зрозумілому табличному форматі. 
       </td>
