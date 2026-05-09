@@ -54,10 +54,10 @@ My goal is to transform data into clear insights and professional business solut
 ![Сertificate_Data Analytics_course _at_GoIT](https://github.com/isachenko-andrii/isachenko-andrii/raw/main/Сover_certificate.png)(https://github.com/isachenko-andrii/isachenko-andrii/blob/main/certificates/%D0%A1ertificate_Data_Analytics_course_at_GoIT.pdf)  
 
 <div align="center">
-  <a href="[https://vasha-ssylka.com](https://github.com/isachenko-andrii/isachenko-andrii/blob/main/certificates/%D0%A1ertificate_Data_Analytics_course_at_GoIT.pdf)">
+  <a href="https://github.com/isachenko-andrii/isachenko-andrii/blob/main/certificates/%D0%A1ertificate_Data_Analytics_course_at_GoIT.pdf">
     <img src="https://github.com/isachenko-andrii/isachenko-andrii/raw/main/Сover_certificate.png" alt="Описание">
   </a>
-</div>
+</div>  
   
 **More Coming Soon** . . .  
   
