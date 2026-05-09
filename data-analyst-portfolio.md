@@ -50,8 +50,10 @@ My goal is to transform data into clear insights and professional business solut
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)  
 
 ## 📜 Certificates  
-    
-**Coming soon** . . .  
+
+![Сertificate_Data Analytics_course _at_GoIT](https://github.com/isachenko-andrii/isachenko-andrii/raw/main/Сover_certificate.png)  
+  
+**More Coming Soon** . . .  
   
 # 
 ## 🧑‍💻 List of projects:  
