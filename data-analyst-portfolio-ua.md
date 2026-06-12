@@ -49,7 +49,7 @@
 ## 📜 Сертифікати  
   
 <div align="center">
-  <a href="https://github.com/isachenko-andrii/isachenko-andrii/blob/main/certificates/Сertificate_Data_Analytics_course_at_GoIT.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1TK9PFCXKsrurcCvVwt7DKoYEgz_tF_hD/view?usp=sharing" target="_blank">
     <img src="https://github.com/isachenko-andrii/isachenko-andrii/raw/main/Сover_certificate.png" alt="Описание">
   </a>
 </div>  
