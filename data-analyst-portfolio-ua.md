@@ -170,4 +170,4 @@ ___
     
 **Ім'я:** [Andrii Isachenko](https://isachenko-andrii.github.io)  
 **LinkedIn:** [Andrii Isachenko](https://www.linkedin.com/in/isachenko-andrii/)  
-**E-mail:** isao.datastudio@gmail.com   
+**E-mail:** andrii.isachenko@gmail.com   
