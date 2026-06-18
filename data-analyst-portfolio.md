@@ -153,6 +153,14 @@ ___
       <td><code>Microsoft Excel</code> <code>Microsoft Power BI</code></td>
       <td>✅Completed</td>
     </tr>
+         <tr>
+      <td><b>💶 <a href="https://github.com/isachenko-andrii/Coffee-Sales-Analysis/blob/main/README.md"> Coffee sales analytics (Tableau Public)</a></b></td>
+      <td>
+       The project is dedicated to developing interactive analytical dashboards in <b>Tableau</b> based on transactional data of a coffee bean company selling coffee beans in three international markets (USA, Ireland, UK). The goal of the project is to transform raw order data into clear business insights for management that allow them to assess sales performance, analyze customer behavior, the structure of product portfolio profitability, and identify key time trends.
+      </td>
+      <td> <code>Tableau Public</code></td>
+      <td>✅ In progress</td>
+    </tr>
   </tbody>
 </table>
     
