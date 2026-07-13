@@ -159,7 +159,7 @@ ___
        The project is dedicated to developing interactive analytical dashboards in <b>Tableau</b> based on transactional data of a coffee bean company selling coffee beans in three international markets (USA, Ireland, UK). The goal of the project is to transform raw order data into clear business insights for management that allow them to assess sales performance, analyze customer behavior, the structure of product portfolio profitability, and identify key time trends.
       </td>
       <td> <code>Tableau Public</code></td>
-      <td>✅ In progress</td>
+      <td>✅Completed</td>
     </tr>
   </tbody>
 </table>
