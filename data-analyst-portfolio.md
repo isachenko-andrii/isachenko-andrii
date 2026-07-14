@@ -153,12 +153,20 @@ ___
       <td><code>Microsoft Excel</code> <code>Microsoft Power BI</code></td>
       <td>✅Completed</td>
     </tr>
-         <tr>
+    <tr>
       <td><b>💶 <a href="https://github.com/isachenko-andrii/Coffee-Sales-Analysis/blob/main/README.md"> Coffee sales analytics (Tableau Public)</a></b></td>
       <td>
        The project is dedicated to developing interactive analytical dashboards in <b>Tableau</b> based on transactional data of a coffee bean company selling coffee beans in three international markets (USA, Ireland, UK). The goal of the project is to transform raw order data into clear business insights for management that allow them to assess sales performance, analyze customer behavior, the structure of product portfolio profitability, and identify key time trends.
       </td>
       <td> <code>Tableau Public</code></td>
+      <td>✅Completed</td>
+    </tr>
+     <tr>
+      <td><b>💶 <a href="https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/README.md"> Order and logistics analysis (Power BI Desktop)</a></b></td>
+      <td>
+      This project is dedicated to creating interactive and deep analytics for a global premium delicatessen retailer.
+      </td>
+      <td> <code>Microsoft Power BI</code></td>
       <td>✅Completed</td>
     </tr>
   </tbody>
