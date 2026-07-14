@@ -162,7 +162,7 @@ ___
       <td>✅Completed</td>
     </tr>
      <tr>
-      <td><b>💶 <a href="https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/README.md"> Order and logistics analysis (Power BI Desktop)</a></b></td>
+      <td><b>💶 <a href="https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/README.md"> Order and logistics analysis (Power BI)</a></b></td>
       <td>
       This project is dedicated to creating interactive and deep analytics for a global premium delicatessen retailer. Based on a real-world dataset, an analytical solution was developed in Power BI Desktop, which allows sales directors, logistics managers, and HR specialists to make informed decisions to increase profitability and delivery efficiency.
       </td>
