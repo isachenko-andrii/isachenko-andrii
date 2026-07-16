@@ -75,7 +75,7 @@ Projects completed during studies at the IT School "GoIT"
   </thead>
   <tbody>
     <tr>
-      <td><b>🛒 <a href="https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization">Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)</a></b></td>
+      <td><b>🛒 <a href="https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization/blob/main/README.md">Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)</a></b></td>
       <td>
        This project focuses on a comprehensive analysis of the Brazilian Olist e-commerce dataset. The goal is to optimize inventory management and sales strategy by performing ABC/XYZ analysis. This allows the business to identify high-profit "star" products, detect "dead stock" in category C, and understand the stability of demand for effective procurement planning. 
       </td>
@@ -83,14 +83,14 @@ Projects completed during studies at the IT School "GoIT"
       <td>✅Completed</td>
     </tr>
     <tr>
-      <td><b>📊 <a href="https://github.com/isachenko-andrii/Full-Sales-Funnel-Analysis">Full Sales Funnel Analysis (User Funnel)</a></b></td>
+      <td><b>📊 <a href="https://github.com/isachenko-andrii/Full-Sales-Funnel-Analysis/blob/main/README.md">Full Sales Funnel Analysis (User Funnel)</a></b></td>
       <td>
         The project is dedicated to analyzing the sales funnel of an online store. The goal of the analysis is to track the user's journey from the first visit to the site to a successful purchase, and to provide sound recommendations for improving conversion.</td>
       <td><code>SQL</code> <code>PostgreSQL</code> <code>Python</code> <code>Pandas</code> <code>MatPlotLib</code></td>
       <td>✅Completed</td>
     </tr>
     <tr>
-      <td><b>📊 <a href="https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard">E-Commerce Sales Performance Dashboard (Looker Studio)</a></b></td>
+      <td><b>📊 <a href="https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard/blob/main/README.md">E-Commerce Sales Performance Dashboard (Looker Studio)</a></b></td>
       <td>
         An assessment of the effectiveness of the online store's operation for the reporting period was conducted, KPIs were calculated, and a study of the distribution of orders was conducted. As a result, an analytical dashboard was formed, conclusions and suggestions were provided.
        </td>
@@ -106,25 +106,17 @@ Projects completed during studies at the IT School "GoIT"
       <td>✅Completed</td>
     </tr>
     <tr>
-      <td><b>📈 <a href="https://github.com/isachenko-andrii/Subscription-screen-conversion-optimization">Subscription screen conversion optimization (A/B Test)</a></b></td>
+      <td><b>📈 <a href="https://github.com/isachenko-andrii/Subscription-screen-conversion-optimization/blob/main/README.md">Subscription screen conversion optimization (A/B Test)</a></b></td>
       <td>A comprehensive analysis of the results of the experiment (20,000 records) on the implementation of the new interface was performed. The following steps were performed: Pre-test analysis, Data Cleaning, Sample Integrity Analysis, Statistical Analysis, Visualization and Interpretation.</td>
       <td><code>Python</code> <code>Pandas</code> <code>MatPlotLib</code> <code>SeaBorn</code> <code>SciPy</code></td>
       <td>✅Completed</td>
     </tr>
      <tr>
-      <td><b>📚 <a href="https://github.com/isachenko-andrii/BI-Tableau-Projects">BI Tableau Projects</a></b></td>
+      <td><b>📚 <a href="https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/README.md">BI Tableau Projects</a></b></td>
       <td>
        Interactive BI dashboards and product analytics projects built with Tableau Public, featuring cohort analysis and conversion funnels.
       </td>
       <td> <code>Tableau Public</code> </td>
-      <td>✅Completed</td>
-    </tr>
-     <tr>
-      <td><b>🍳 <a href="https://github.com/isachenko-andrii/End-to-End-Sales-Analysis">End to End Sales Analysis</a></b></td>
-      <td>
-       Analysis of sales efficiency and optimization of logistics processes based on a large set of data (Global Superstore)
-      </td>
-      <td> <code>Microsoft Excel</code> <code>Power Query</code> <code>Power BI</code> </td>
       <td>✅Completed</td>
     </tr>
   </tbody>
@@ -146,7 +138,7 @@ ___
   </thead>
   <tbody>
     <tr>
-      <td><b>💶 <a href="https://github.com/isachenko-andrii/Average-salary-in-Ukraine-for-December-2025">Average Salary in Ukraine for December 2025 (Power BI)</a></b></td>
+      <td><b>💶 <a href="https://github.com/isachenko-andrii/Average-salary-in-Ukraine-for-December-2025/blob/main/README.md">Average Salary in Ukraine for December 2025 (Power BI)</a></b></td>
       <td>
        This project focuses on analyzing and visualizing the average salary levels across different regions of Ukraine for December 2025. Microsoft Excel was used for data preparation, cleaning, and structuring, while Microsoft Power BI was applied to create interactive dashboards and visual maps that highlight regional differences in salary distribution.
       </td>
