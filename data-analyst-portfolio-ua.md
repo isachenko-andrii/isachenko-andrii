@@ -161,7 +161,7 @@ ___
       <td>✅Завершено </td>
     </tr>
     <tr>
-      <td><b>💶 <a href="https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/README.md"> Аналіз замовлень та логістики (Power BI)</a></b></td>
+      <td><b>💶 <a href="https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/README-UA.md"> Аналіз замовлень та логістики (Power BI)</a></b></td>
       <td>
       Цей проєкт присвячений створенню інтерактивної та глибокої аналітики для світового рітейлера преміальних делікатесів. На основі реального датасету було розроблено аналітичне рішення в Power BI Desktop, яке дозволяє директору з продажів, логістичним менеджерам та HR-спеціалістам приймати обґрунтовані рішення для підвищення прибутковості та ефективності доставки.
       </td>
