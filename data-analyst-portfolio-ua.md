@@ -71,7 +71,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>🛒 <a href="https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization/blob/main/README-UA.md">Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)</a></b></td>
+      <td><b>🛒 <a href="https://github.com/isachenko-andrii/Brazilian-E-Commerce-Sales-Inventory-Optimization/blob/main/README-UA.md">Оптимізація продажів та складу Brazilian E-Commerce (ABC/XYZ Аналіз)</a></b></td>
       <td>
        Цей проєкт зосереджений на комплексному аналізі набору даних електронної комерції бразильської компанії Olist. Метою є оптимізація управління запасами та стратегії продажів шляхом проведення ABC/XYZ аналізу. Це дозволяє бізнесу визначити високоприбуткові "зіркові" продукти, виявити "мертві запаси" в категорії C та зрозуміти стабільність попиту для ефективного планування закупівель.
       </td>
@@ -79,7 +79,7 @@
       <td>✅Завершено</td>
     </tr>
     <tr>
-      <td><b>📊 <a href="https://github.com/isachenko-andrii/Full-Sales-Funnel-Analysis/blob/main/README-UA.md">Full Sales Funnel Analysis (User Funnel)</a></b></td>
+      <td><b>📊 <a href="https://github.com/isachenko-andrii/Full-Sales-Funnel-Analysis/blob/main/README-UA.md"> Повний аналіз воронки продажів (User Funnel)</a></b></td>
       <td>
         Проєкт присвячений аналізу воронки продажів інтернет-магазину. Мета аналізу — відстежити шлях користувача від першого відвідування сайту до успішної покупки та надати обґрунтовані рекомендації щодо покращення конверсії.
       </td>
@@ -87,7 +87,7 @@
       <td>✅Завершено</td>
     </tr>
     <tr>
-      <td><b>📊 <a href="https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard/blob/main/README-UA.md">E-Commerce Sales Performance Dashboard (Looker Studio)</a></b></td>
+      <td><b>📊 <a href="https://github.com/isachenko-andrii/E-commerce-Sales-Performance-Dashboard/blob/main/README-UA.md">Дашборд управління ефективністю продажів E-Commerce (Looker Studio)</a></b></td>
       <td>
         Було проведено оцінку ефективності роботи інтернет-магазину за звітний період, розраховано KPI та проведено дослідження розподілу замовлень. В результаті було сформовано аналітичну панель, надано висновки та пропозиції.
        </td>
@@ -95,7 +95,7 @@
       <td>✅Завершено</td>
     </tr>
     <tr>
-      <td><b>🧠 <a href="https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/README-UA.md">Stack overflow software developer survey analysis (Big Data Analysis)</a></b></td>
+      <td><b>🧠 <a href="https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/README-UA.md">Аналіз опитування розробників Stack Overflow (Big Data Analysis)</a></b></td>
       <td>
         Статистичний аналіз великого набору даних, групування, агрегування та фільтрація даних за заданими критеріями. Були створені візуалізації. Результати аналізу були надані у зрозумілому табличному форматі. 
       </td>
@@ -103,7 +103,7 @@
       <td>✅Завершено</td>
     </tr>
     <tr>
-      <td><b>📈 <a href="https://github.com/isachenko-andrii/Subscription-screen-conversion-optimization/blob/main/README-UA.md">Subscription screen conversion optimization (A/B Test)</a></b></td>
+      <td><b>📈 <a href="https://github.com/isachenko-andrii/Subscription-screen-conversion-optimization/blob/main/README-UA.md">Оптимізація конверсії екрану підписки (A/B Тест)</a></b></td>
       <td>
         Було проведено комплексний аналіз результатів експерименту (20 000 записів) щодо впровадження нового інтерфейсу. Були виконані такі кроки: передтестовий аналіз, очищення даних, аналіз цілісності вибірки, статистичний аналіз, візуалізація та інтерпретація.
       </td>
@@ -111,7 +111,7 @@
       <td>✅Завершено</td>
     </tr>
      <tr>
-      <td><b>📚 <a href="https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/README-UA.md">BI Tableau Projects</a></b></td>
+      <td><b>📚 <a href="https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/README-UA.md"> BI Tableau міні проєкти </a></b></td>
       <td>
        Інтерактивні інформаційні панелі бізнес-аналітики та проекти аналітики продуктів, створені за допомогою Tableau Public, включаючи когортний аналіз та воронки конверсій.
       </td>
@@ -137,7 +137,7 @@ ___
   </thead>
   <tbody>
     <tr>
-      <td><b>💶 <a href="https://github.com/isachenko-andrii/Average-salary-in-Ukraine-for-December-2025/blob/main/README-UA.md">Середня зарплата в Україні за грудень 2025 року (Power BI)</a></b></td>
+      <td><b>💶 <a href="https://github.com/isachenko-andrii/Average-salary-in-Ukraine-for-December-2025/blob/main/README-UA.md"> Середня зарплата в Україні за грудень 2025 року (Power BI) </a></b></td>
       <td>
        Проєкт зосереджений на аналізі та візуалізації середніх рівнів заробітної плати в різних регіонах України за грудень 2025 року. Для підготовки, очищення та структурування даних використовувався Microsoft Excel, а для створення інтерактивних інформаційних панелей та візуальних карт, що підкреслюють регіональні відмінності у розподілі заробітної плати, - Microsoft Power BI.
       </td>
@@ -153,7 +153,7 @@ ___
       <td>✅Завершено </td>
     </tr>
     <tr>
-      <td><b>💶 <a href="https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/README-UA.md"> Аналіз замовлень та логістики (Power BI)</a></b></td>
+      <td><b>💶 <a href="https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/README-UA.md"> Аналіз замовлень та логістики (Power BI) </a></b></td>
       <td>
       Цей проєкт присвячений створенню інтерактивної та глибокої аналітики для світового рітейлера преміальних делікатесів. На основі реального датасету було розроблено аналітичне рішення в Power BI Desktop, яке дозволяє директору з продажів, логістичним менеджерам та HR-спеціалістам приймати обґрунтовані рішення для підвищення прибутковості та ефективності доставки.
       </td>
