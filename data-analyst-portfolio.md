@@ -161,6 +161,14 @@ ___
       <td> <code>Microsoft Power BI</code></td>
       <td>✅Completed</td>
     </tr>
+    <tr>
+      <td><b> ... </b></td>
+      <td>
+...
+      </td>
+      <td> <code>Tableau Public</code></td>
+      <td>✅Completed</td>
+    </tr>
   </tbody>
 </table>
     
