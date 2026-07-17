@@ -119,6 +119,14 @@ Projects completed during studies at the IT School "GoIT"
       <td> <code>Tableau Public</code> </td>
       <td>✅Completed</td>
     </tr>
+        <tr>
+      <td><b> ... </b></td>
+      <td>
+...
+      </td>
+      <td> <code>Tableau Public</code></td>
+      <td>✅Completed</td>
+    </tr>
   </tbody>
 </table>
    
@@ -166,7 +174,7 @@ ___
       <td>
 ...
       </td>
-      <td> <code>Tableau Public</code></td>
+      <td> <code>...</code></td>
       <td>✅Completed</td>
     </tr>
   </tbody>
