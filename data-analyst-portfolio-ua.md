@@ -118,13 +118,13 @@
       <td> <code>Tableau Public</code> </td>
       <td>✅Завершено</td>
     </tr>
-        <tr>
-      <td><b> ... </b></td>
+    <tr>
+      <td><b>📊 <a href="https://github.com/isachenko-andrii/Marketing-and-Conversion-Analytics-Dashboard/blob/main/README.md">Marketing and Conversion Analytics Dashboard</a></b></td>
       <td>
-...
+       Цей проєкт присвячений аналізу поведінки користувачів інтернет-магазину на основі реальних (знеособлених) даних Google Analytics 4 (GA4).
       </td>
       <td> <code>Tableau Public</code></td>
-      <td>✅Completed</td>
+      <td>✅Завершено</td>
     </tr>
   </tbody>
 </table>
