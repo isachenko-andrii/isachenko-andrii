@@ -118,6 +118,14 @@
       <td> <code>Tableau Public</code> </td>
       <td>✅Завершено</td>
     </tr>
+        <tr>
+      <td><b> ... </b></td>
+      <td>
+...
+      </td>
+      <td> <code>Tableau Public</code></td>
+      <td>✅Completed</td>
+    </tr>
   </tbody>
 </table>
    
@@ -159,6 +167,14 @@ ___
       </td>
       <td> <code>Microsoft Power BI</code></td>
       <td>✅Завершено </td>
+    </tr>
+    <tr>
+      <td><b> ... </b></td>
+      <td>
+...
+      </td>
+      <td> <code> ... </code></td>
+      <td>✅Completed</td>
     </tr>
   </tbody>
 </table>
