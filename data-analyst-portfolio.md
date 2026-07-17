@@ -119,10 +119,10 @@ Projects completed during studies at the IT School "GoIT"
       <td> <code>Tableau Public</code> </td>
       <td>✅Completed</td>
     </tr>
-        <tr>
-      <td><b> ... </b></td>
+    <tr>
+      <td><b>📊 <a href="https://github.com/isachenko-andrii/Marketing-and-Conversion-Analytics-Dashboard/blob/main/README.md">Marketing and Conversion Analytics Dashboard</a></b></td>
       <td>
-...
+This project is dedicated to analyzing the behavior of online store users based on real (depersonalized) Google Analytics 4 (GA4) data.
       </td>
       <td> <code>Tableau Public</code></td>
       <td>✅Completed</td>
