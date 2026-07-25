@@ -173,8 +173,8 @@ ___
       <td>
       Цей проект створено як практичну демонстрацію навичок побудови, оптимізації та деплою інтерактивних дата-додатків за допомогою фреймворку Streamlit.io. Проект показує повний цикл роботи аналітика даних: від первинного аналізу (EDA) та написання модульного Python-коду до автоматизації хостингу веб-додатка в хмарі Streamlit Community Cloud.
       </td>
-      <td> <code> Python </code>< <code> Streamlit </code> </td>
-      <td>✅Completed</td>
+      <td> <code> Python </code><code> Streamlit </code> </td>
+      <td>✅Завершено </td>
     </tr>
     <tr>
       <td><b> ... </b></td>
@@ -182,7 +182,7 @@ ___
 ...
       </td>
       <td> <code> ... </code></td>
-      <td>✅Completed</td>
+      <td>✅Завершено </td>
     </tr>
   </tbody>
 </table>
