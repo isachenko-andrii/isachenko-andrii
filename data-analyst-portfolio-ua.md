@@ -169,7 +169,7 @@ ___
       <td>✅Завершено </td>
     </tr>
     <tr>
-      <td><b> <a href="https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/README-UA.md"> Аналітичний дашборд продажів та прибутку (Streamlit) </a></b></td>
+      <td><b>💶  <a href="https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/README-UA.md"> Аналітичний дашборд продажів та прибутку (Streamlit) </a></b></td>
       <td>
       Цей проект створено як практичну демонстрацію навичок побудови, оптимізації та деплою інтерактивних дата-додатків за допомогою фреймворку Streamlit.io. Проект показує повний цикл роботи аналітика даних: від первинного аналізу (EDA) та написання модульного Python-коду до автоматизації хостингу веб-додатка в хмарі Streamlit Community Cloud.
       </td>
