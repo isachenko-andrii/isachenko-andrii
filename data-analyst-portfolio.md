@@ -174,7 +174,7 @@ ___
       <td>
       This project is designed as a practical demonstration of the skills of building, optimizing, and deploying interactive data applications using the Streamlit.io framework. The project shows the full cycle of data analytics work: from initial analysis (EDA) and writing modular Python code to automating the hosting of a web application in the Streamlit Community Cloud.
       </td>
-      <td> <code> Python </code>< <code> Streamlit </code> </td>
+      <td> <code> Python </code><code> Streamlit </code> </td>
       <td>✅Completed</td>
     </tr>
     <tr>
