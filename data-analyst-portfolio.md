@@ -111,14 +111,7 @@ Projects completed during studies at the IT School "GoIT"
       <td><code>Python</code> <code>Pandas</code> <code>MatPlotLib</code> <code>SeaBorn</code> <code>SciPy</code></td>
       <td>✅Completed</td>
     </tr>
-     <tr>
-      <td><b>📚 <a href="https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/README.md">BI Tableau Projects</a></b></td>
-      <td>
-       Interactive BI dashboards and product analytics projects built with Tableau Public, featuring cohort analysis and conversion funnels.
-      </td>
-      <td> <code>Tableau Public</code> </td>
-      <td>✅Completed</td>
-    </tr>
+     
     <tr>
       <td><b>📊 <a href="https://github.com/isachenko-andrii/Marketing-and-Conversion-Analytics-Dashboard/blob/main/README.md">Marketing and Conversion Analytics Dashboard</a></b></td>
       <td>
