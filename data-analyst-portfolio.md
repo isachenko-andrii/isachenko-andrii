@@ -52,14 +52,14 @@ My goal is to transform data into clear insights and professional business solut
 ## 📜 Certificates  
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1CFh3r48J6euGb8SBHJhzUrxlsbsEDu3S/view?usp=sharing" target="_blank"  alt="Сertificate Google Data Analytics course at Coursera" >
-    <img src="https://github.com/isachenko-andrii/isachenko-andrii/raw/main/google_certificate.png" alt="Сertificate Google Data Analytics course at Coursera">
+  <a href="https://drive.google.com/file/d/1CFh3r48J6euGb8SBHJhzUrxlsbsEDu3S/view?usp=sharing" target="_blank"  alt="Сertificate Google Data Analytics course at Coursera - Isachenko Andrii" >
+    <img src="https://github.com/isachenko-andrii/isachenko-andrii/raw/main/google_certificate.png" alt="Сertificate Google Data Analytics course at Coursera - Isachenko Andrii">
   </a>
 </div>  
 <br>  
 <div align="center">
-  <a href="https://drive.google.com/file/d/1TK9PFCXKsrurcCvVwt7DKoYEgz_tF_hD/view?usp=sharing" target="_blank"  alt="Сertificate Data Analytics course at GoIT" >
-    <img src="https://github.com/isachenko-andrii/isachenko-andrii/raw/main/Сover_certificate.png" alt="Сertificate Data Analytics course at GoIT">
+  <a href="https://drive.google.com/file/d/1TK9PFCXKsrurcCvVwt7DKoYEgz_tF_hD/view?usp=sharing" target="_blank"  alt="Сertificate Data Analytics course at GoIT - Isachenko Andrii" >
+    <img src="https://github.com/isachenko-andrii/isachenko-andrii/raw/main/Сover_certificate.png" alt="Сertificate Data Analytics course at GoIT - Isachenko Andrii">
   </a>
 </div> 
   
