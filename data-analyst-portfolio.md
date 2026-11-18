@@ -50,12 +50,18 @@ My goal is to transform data into clear insights and professional business solut
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)  
 
 ## 📜 Certificates  
-  
+
 <div align="center">
-  <a href="https://drive.google.com/file/d/1TK9PFCXKsrurcCvVwt7DKoYEgz_tF_hD/view?usp=sharing" target="_blank">
-    <img src="https://github.com/isachenko-andrii/isachenko-andrii/raw/main/Сover_certificate.png" alt="Описание">
+  <a href="https://drive.google.com/file/d/1CFh3r48J6euGb8SBHJhzUrxlsbsEDu3S/view?usp=sharing" target="_blank"  alt="Сertificate Google Data Analytics course at Coursera" >
+    <img src="https://github.com/isachenko-andrii/isachenko-andrii/raw/main/google_certificate.png" alt="Сertificate Google Data Analytics course at Coursera">
   </a>
 </div>  
+<br>  
+<div align="center">
+  <a href="https://drive.google.com/file/d/1TK9PFCXKsrurcCvVwt7DKoYEgz_tF_hD/view?usp=sharing" target="_blank"  alt="Сertificate Data Analytics course at GoIT" >
+    <img src="https://github.com/isachenko-andrii/isachenko-andrii/raw/main/Сover_certificate.png" alt="Сertificate Data Analytics course at GoIT">
+  </a>
+</div> 
   
 **More Coming Soon** . . .  
   
