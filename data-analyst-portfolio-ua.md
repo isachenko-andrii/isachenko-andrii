@@ -47,6 +47,12 @@
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)  
 
 ## 📜 Сертифікати  
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1CFh3r48J6euGb8SBHJhzUrxlsbsEDu3S/view?usp=sharing" target="_blank"  alt="Подивитись сертифікат" >
+    <img src="https://github.com/isachenko-andrii/isachenko-andrii/raw/main/google_certificate.png" alt="Описание">
+  </a>
+</div>  
   
 <div align="center">
   <a href="https://drive.google.com/file/d/1TK9PFCXKsrurcCvVwt7DKoYEgz_tF_hD/view?usp=sharing" target="_blank"  alt="Подивитись сертифікат" >
